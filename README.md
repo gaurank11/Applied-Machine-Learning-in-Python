@@ -1,6 +1,6 @@
 # Applied-Machine-Learning-in-Python
 Coursera Course 
-https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~python-machine-learning/XDP~COURSE!~python-machine-learning.jpeg
+https://www.coursera.org/learn/python-machine-learning/home/info
 
 ## Content
 
