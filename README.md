@@ -15,6 +15,10 @@ This course will introduce the learner to applied machine learning, focusing mor
 
 This course should be taken after Introduction to Data Science in Python and Applied Plotting, Charting & Data Representation in Python and before Applied Text Mining in Python and Applied Social Analysis in Python.
 
-## Certificate
+## Objective
 
-![Certificate](./media/LCV9UWM99C95.png)
+- Develop a thorough understanding of the key concepts and techniques used in applied machine learning, including classification, regression, clustering, and dimensionality reduction.
+- Gain practical experience in applying machine learning algorithms and tools to real-world problems using Python programming language, including libraries such as scikit-learn, pandas, and numpy.
+- Learn how to prepare and preprocess data for machine learning tasks, including techniques for feature selection, scaling, and normalization.
+- Develop the ability to evaluate and interpret the performance of machine learning models, including metrics such as accuracy, precision, recall, and F1-score.
+- Gain an understanding of ethical considerations and best practices in machine learning, including issues such as bias, fairness, privacy, and transparency
