@@ -10,10 +10,10 @@ This course should be taken after Introduction to Data Science in Python and App
 
 ## Content
 
-- [Fundamentals of machine learning- Intro to Scikit learn]
-- [Supervised Machine Learning - Part 1]
-- [Evaluation]
-- [Supervised Machine Learning - Part 2]
+- Fundamentals of machine learning- Intro to Scikit learn
+- Supervised Machine Learning - Part 1
+- Evaluation
+- Supervised Machine Learning - Part 2
 
 ## Objective
 
