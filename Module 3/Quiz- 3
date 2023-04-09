@@ -1,0 +1,9 @@
+#Quiz - 3
+
+Question 1- A supervised learning model has been built to predict whether someone is infected with a new strain of a virus. The probability of any one person having the virus is 5%. Using accuracy as a metric, what would be a good choice for a baseline accuracy score that the new model would want to outperform?
+
+Answer - 0.95
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
